@@ -11,6 +11,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+    	"name": "What In The AI",
+    	"link": "https://whatintheai.com/",
+    	"submission_link": "https://forms.gle/y98jLyYKEU7EgXk89",
+    	"domain_rating": 1,
+    	"monthly_visits": 100,
+        "submission_experience": "",
+    	"pricing": "Free"
+    },
+    {
         "name": "What the AI",
         "link": "https://whattheai.tech/",
         "submission_link": "https://whattheai.tech/",
